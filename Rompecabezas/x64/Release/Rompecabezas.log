@@ -1,0 +1,22 @@
+﻿  Boton.cpp
+C:\Users\pilon\Desktop\PROYECTOS VS\PUZZLE-LOL c++\Boton.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "Boton.cpp")
+  
+  main.cpp
+C:\Users\pilon\Desktop\PROYECTOS VS\PUZZLE-LOL c++\main.cpp(3,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Menu.cpp
+C:\Users\pilon\Desktop\PROYECTOS VS\PUZZLE-LOL c++\Menu.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "Menu.cpp")
+  
+  Pieza.cpp
+C:\Users\pilon\Desktop\PROYECTOS VS\PUZZLE-LOL c++\Pieza.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "Pieza.cpp")
+  
+  Puzle.cpp
+C:\Users\pilon\Desktop\PROYECTOS VS\PUZZLE-LOL c++\Puzle.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "Puzle.cpp")
+  
+  Usuario.cpp
+C:\Users\pilon\Desktop\PROYECTOS VS\PUZZLE-LOL c++\Usuario.h(2,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  (compilando archivo de origen "Usuario.cpp")
+  
